@@ -1,0 +1,17 @@
+#welcome {
+    color: white;
+}
+
+#about, #work, #contact, #projects {
+    color:purple;
+}
+
+.nav-link {
+    color: white;
+}
+
+#footer {
+    text-align: center;
+    font-size: 20px;
+}
+
